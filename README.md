@@ -1,0 +1,1 @@
+# This application helps us to understand how to bootstrap react application using CDN
