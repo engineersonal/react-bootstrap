@@ -1,1 +1,1 @@
-# This application helps us to understand how to bootstrap custom CRA using Parcel
+# This is a Food Delivery Application using custom CRA and Parcel
